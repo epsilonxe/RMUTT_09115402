@@ -3,7 +3,7 @@
 
 ผู้สอน: ดร.รัฐพรหม พรหมคำ
 
-![banner](./materials/banner.jpg)
+![banner](./images/banner.jpg)
 
 ## ปีการศึกษา 2565/1
 
