@@ -30,7 +30,7 @@ Topics of students’ interest in mathematics which will be announced in advance
 | หัวข้อ             | เอกสารประกอบ |
 | -----------------|------------|
 | Introduction of Python Programming | -   |
-| Data Type, Variable and Expression | Lecture / [Workshop](./materials/workshop_01.ipynb)   |
+| Data Type, Variable and Expression | [Lecture](./materials/lecture_01.pdf) / [Workshop](./materials/workshop_01.ipynb)   |
 
 
 ## การวัดผลการเรียน
