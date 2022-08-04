@@ -31,6 +31,7 @@ Topics of students’ interest in mathematics which will be announced in advance
 | -----------------|------------|
 | Introduction of Python Programming | -   |
 | Data Type, Variable and Expression | [Lecture](./materials/lecture_01.pdf) / [Workshop](./materials/workshop_01.ipynb)   |
+| Problem Solving Exercise | [Workshop](./materials/workshop_02.ipynb)   |
 
 
 ## การวัดผลการเรียน
