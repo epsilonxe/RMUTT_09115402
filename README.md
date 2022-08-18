@@ -30,10 +30,10 @@ Topics of students’ interest in mathematics which will be announced in advance
 | หัวข้อ             | เอกสารประกอบ |
 | -----------------|------------|
 | Introduction of Python Programming | -   |
-| Data Type, Variable and Expression | [Lecture](./materials/lecture_01.pdf) / [Workshop](./materials/workshop_01.ipynb)   |
+| Data Type, Variable and Expression | [Summary](./materials/summary_01.pdf) <br> [Workshop](./materials/workshop_01.ipynb)   |
 | Problem Solving Exercise | [Workshop](./materials/workshop_02.ipynb)   |
-| Selection (if-elif-else) | [Lecture](./materials/lecture_02.pdf) / [Workshop](./materials/workshop_03.ipynb)   |
-
+| Selection (if-elif-else) | [Slide](./materials/selection.pdf) <br> [Summary](./materials/summary_02.pdf) <br> [Workshop](./materials/workshop_03.ipynb)   |
+| Repetition (while, for) | [Slide](./materials/repetition.pdf) <br> [Summary](./materials/summary_03.pdf) <br> [Workshop](./materials/workshop_04.ipynb)   |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
