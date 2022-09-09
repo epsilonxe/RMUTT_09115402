@@ -35,6 +35,9 @@ Topics of students’ interest in mathematics which will be announced in advance
 | Selection (if-elif-else) | [Slide](./materials/selection.pdf) <br> [Summary](./materials/summary_02.pdf) <br> [Workshop](./materials/workshop_03.ipynb)   |
 | Repetition (while, for) | [Slide](./materials/repetition.pdf) <br> [Summary](./materials/summary_03.pdf) <br> [Workshop](./materials/workshop_04.ipynb)   |
 
+
+ดาวน์โหลด: [ข้อสอบกลางภาค](./materials/2022_mid_09115402.pdf)
+
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
 - การสอบกลางภาค 30%
