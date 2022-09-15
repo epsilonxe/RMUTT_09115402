@@ -34,6 +34,8 @@ Topics of students’ interest in mathematics which will be announced in advance
 | Problem Solving Exercise | [Workshop](./materials/workshop_02.ipynb)   |
 | Selection (if-elif-else) | [Slide](./materials/selection.pdf) <br> [Summary](./materials/summary_02.pdf) <br> [Workshop](./materials/workshop_03.ipynb)   |
 | Repetition (while, for) | [Slide](./materials/repetition.pdf) <br> [Summary](./materials/summary_03.pdf) <br> [Workshop](./materials/workshop_04.ipynb)   |
+| NMM: Error and Approximation | [Slide](./materials/lecture_01.pdf) <br> [Workshop](./materials/workshop_05.ipynb)   |
+| NMM: Root Finding | [Slide](./materials/lecture_02.pdf) <br> [Workshop A](./materials/workshop_06.ipynb) <br>  [Workshop B](./materials/workshop_07.ipynb) |
 
 
 ดาวน์โหลด: [ข้อสอบกลางภาค](./materials/2022_mid_09115402.pdf)
