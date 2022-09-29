@@ -36,6 +36,7 @@ Topics of students’ interest in mathematics which will be announced in advance
 | Repetition (while, for) | [Slide](./materials/repetition.pdf) <br> [Summary](./materials/summary_03.pdf) <br> [Workshop](./materials/workshop_04.ipynb)   |
 | NMM: Error and Approximation | [Slide](./materials/lecture_01.pdf) <br> [Workshop](./materials/workshop_05.ipynb)   |
 | NMM: Root Finding | [Slide](./materials/lecture_02.pdf) <br> [Workshop A](./materials/workshop_06.ipynb) <br>  [Workshop B](./materials/workshop_07.ipynb) |
+| NMC: Systems of Linear Equation | [Slide](./materials/lecture_03.pdf) <br> [Workshop A](./materials/workshop_08.ipynb) <br>  [Workshop B](./materials/workshop_09.ipynb) <br>  [Workshop C](./materials/workshop_10.ipynb) <br>  [Workshop D](./materials/workshop_11.ipynb) |
 
 
 ดาวน์โหลด: [ข้อสอบกลางภาค](./materials/2022_mid_09115402.pdf)
